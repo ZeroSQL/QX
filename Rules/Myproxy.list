@@ -1,7 +1,7 @@
 # NAME: MY
-HOST, mojie.app, MoJie
-HOST, rsshub.app, Rsshub
-HOST, 69shuba.cx, 69shuba
+HOST-SUFFIX, mojie.app, MoJie
+HOST-SUFFIX, rsshub.app, Rsshub
+HOST-SUFFIX, 69shuba.cx, 69shuba
 
 # NAME: Github
 # HOST-KEYWORD: 1
