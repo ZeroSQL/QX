@@ -41,35 +41,17 @@ HOST-KEYWORD,github,GitHub
 
 # NAME:Yahoo
 # HOST: 1
-# HOST-SUFFIX: 26
-# TOTAL: 27
+# HOST-SUFFIX: 8
+# TOTAL: 9
 HOST,cdn.js7k.com,Yahoo
 HOST-SUFFIX,flic.kr,Yahoo
 HOST-SUFFIX,flickr,Yahoo
 HOST-SUFFIX,flickr.com,Yahoo
 HOST-SUFFIX,flickr.net,Yahoo
-HOST-SUFFIX,yahoo.com,Yahoo
-HOST-SUFFIX,yahoo.co.jp,Yahoo
-HOST-SUFFIX,yahoo.co.uk,Yahoo
-HOST-SUFFIX,yahoo.fr,Yahoo
-HOST-SUFFIX,yahoo.de,Yahoo
-HOST-SUFFIX,yahoo.it,Yahoo
-HOST-SUFFIX,yahoo.es,Yahoo
-HOST-SUFFIX,yahoo.ca,Yahoo
-HOST-SUFFIX,yahoo.com.au,Yahoo
-HOST-SUFFIX,yahoo.com.sg,Yahoo
-HOST-SUFFIX,yahoo.com.hk,Yahoo
-HOST-SUFFIX,yahoo.com.tw,Yahoo
-HOST-SUFFIX,yahoo.co.in,Yahoo
-HOST-SUFFIX,yahoo.com.br,Yahoo
-HOST-SUFFIX,yahoo.com.mx,Yahoo
-HOST-SUFFIX,mail.yahoo.com,Yahoo
-HOST-SUFFIX,mail.g03.yahoodns.net,Yahoo
-HOST-SUFFIX,ymail.com,Yahoo
-HOST-SUFFIX,mail.aol.com,Yahoo
-HOST-SUFFIX,imap.aol.com,Yahoo
-HOST-SUFFIX,mta5.am0.yahoodns.net,Yahoo
-HOST-SUFFIX,mail.gm0.yahoodns.net,Yahoo
+HOST-SUFFIX,yahoo.com,yahoo
+HOST-SUFFIX,login.yahoo.com,yahoo
+HOST-SUFFIX,mail.yahoo.com,yahoo
+HOST-SUFFIX,yahoo.hk,yahoo
 
 # NAME: Instagram
 # HOST-KEYWORD: 1
