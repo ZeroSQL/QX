@@ -1,114 +1,114 @@
 # NAME: MY
-HOST-SUFFIX, zaobao.com.sg, zaobao
-HOST-SUFFIX, mojie.app, mojie
-HOST-SUFFIX, cangshuju.com, cangshuju
-HOST-SUFFIX, v2ex.com, v2ex
-HOST-SUFFIX, rsshub.app, rsshub
-HOST-SUFFIX, proton.me, mail
-HOST-SUFFIX, 69shuba.cx, 69shu
+DOMAIN-SUFFIX, zaobao.com.sg, zaobao
+DOMAIN-SUFFIX, mojie.app, mojie
+DOMAIN-SUFFIX, cangshuju.com, cangshuju
+DOMAIN-SUFFIX, v2ex.com, v2ex
+DOMAIN-SUFFIX, rsshub.app, rsshub
+DOMAIN-SUFFIX, proton.me, mail
+DOMAIN-SUFFIX, 69shuba.cx, 69shu
 
 # NAME: Github
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 29
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 29
 # TOTAL: 30
-HOST-SUFFIX,atom.io,GitHub
-HOST-SUFFIX,dependabot.com,GitHub
-HOST-SUFFIX,ghcr.io,GitHub
-HOST-SUFFIX,git.io,GitHub
-HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,GitHub
-HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,GitHub
-HOST-SUFFIX,github-cloud.s3.amazonaws.com,GitHub
-HOST-SUFFIX,github.blog,GitHub
-HOST-SUFFIX,github.com,GitHub
-HOST-SUFFIX,github.community,GitHub
-HOST-SUFFIX,github.dev,GitHub
-HOST-SUFFIX,github.io,GitHub
-HOST-SUFFIX,githubapp.com,GitHub
-HOST-SUFFIX,githubassets.com,GitHub
-HOST-SUFFIX,githubhackathon.com,GitHub
-HOST-SUFFIX,githubnext.com,GitHub
-HOST-SUFFIX,githubpreview.dev,GitHub
-HOST-SUFFIX,githubstatus.com,GitHub
-HOST-SUFFIX,githubuniverse.com,GitHub
-HOST-SUFFIX,githubusercontent.com,GitHub
-HOST-SUFFIX,myoctocat.com,GitHub
-HOST-SUFFIX,npm.community,GitHub
-HOST-SUFFIX,npmjs.com,GitHub
-HOST-SUFFIX,npmjs.org,GitHub
-HOST-SUFFIX,opensource.guide,GitHub
-HOST-SUFFIX,rawgit.com,GitHub
-HOST-SUFFIX,rawgithub.com,GitHub
-HOST-SUFFIX,repo.new,GitHub
-HOST-SUFFIX,thegithubshop.com,GitHub
-HOST-KEYWORD,github,GitHub
+DOMAIN-SUFFIX,atom.io,GitHub
+DOMAIN-SUFFIX,dependabot.com,GitHub
+DOMAIN-SUFFIX,ghcr.io,GitHub
+DOMAIN-SUFFIX,git.io,GitHub
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,GitHub
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,GitHub
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com,GitHub
+DOMAIN-SUFFIX,github.blog,GitHub
+DOMAIN-SUFFIX,github.com,GitHub
+DOMAIN-SUFFIX,github.community,GitHub
+DOMAIN-SUFFIX,github.dev,GitHub
+DOMAIN-SUFFIX,github.io,GitHub
+DOMAIN-SUFFIX,githubapp.com,GitHub
+DOMAIN-SUFFIX,githubassets.com,GitHub
+DOMAIN-SUFFIX,githubhackathon.com,GitHub
+DOMAIN-SUFFIX,githubnext.com,GitHub
+DOMAIN-SUFFIX,githubpreview.dev,GitHub
+DOMAIN-SUFFIX,githubstatus.com,GitHub
+DOMAIN-SUFFIX,githubuniverse.com,GitHub
+DOMAIN-SUFFIX,githubusercontent.com,GitHub
+DOMAIN-SUFFIX,myoctocat.com,GitHub
+DOMAIN-SUFFIX,npm.community,GitHub
+DOMAIN-SUFFIX,npmjs.com,GitHub
+DOMAIN-SUFFIX,npmjs.org,GitHub
+DOMAIN-SUFFIX,opensource.guide,GitHub
+DOMAIN-SUFFIX,rawgit.com,GitHub
+DOMAIN-SUFFIX,rawgithub.com,GitHub
+DOMAIN-SUFFIX,repo.new,GitHub
+DOMAIN-SUFFIX,thegithubshop.com,GitHub
+DOMAIN-KEYWORD,github,GitHub
 
 # NAME:Yahoo
-# HOST: 1
-# HOST-SUFFIX: 22
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 22
 # TOTAL: 23
-HOST,cdn.js7k.com,Yahoo
-HOST-SUFFIX,flic.kr,Yahoo
-HOST-SUFFIX,flickr,Yahoo
-HOST-SUFFIX,flickr.com,Yahoo
-HOST-SUFFIX,flickr.net,Yahoo
-HOST-SUFFIX,staticflickr.com,Yahoo
-HOST-SUFFIX,techcrunch.com,Yahoo
-HOST-SUFFIX,yahoo.com,Yahoo
-HOST-SUFFIX,login.yahoo.com,Yahoo
-HOST-SUFFIX,mail.yahoo.com,Yahoo
-HOST-SUFFIX,yahoo.hk,Yahoo
-HOST-SUFFIX,yahooapis.com,Yahoo
-HOST-SUFFIX,yahoodns.net,Yahoo
-HOST-SUFFIX,yahoofinance.com,Yahoo
-HOST-SUFFIX,yahoohealth.com,Yahoo
-HOST-SUFFIX,yahoomusic.com,Yahoo
-HOST-SUFFIX,yahoosandbox.com,Yahoo
-HOST-SUFFIX,yahoosportsbook.com,Yahoo
-HOST-SUFFIX,yho.com,Yahoo
-HOST-SUFFIX,yimg.com,Yahoo
-HOST-SUFFIX,yimg.jp,Yahoo
-HOST-SUFFIX,ymail.com,Yahoo
-HOST-SUFFIX,yusercontent.com,Yahoo
+DOMAIN,cdn.js7k.com,Yahoo
+DOMAIN-SUFFIX,flic.kr,Yahoo
+DOMAIN-SUFFIX,flickr,Yahoo
+DOMAIN-SUFFIX,flickr.com,Yahoo
+DOMAIN-SUFFIX,flickr.net,Yahoo
+DOMAIN-SUFFIX,staticflickr.com,Yahoo
+DOMAIN-SUFFIX,techcrunch.com,Yahoo
+DOMAIN-SUFFIX,yahoo.com,Yahoo
+DOMAIN-SUFFIX,login.yahoo.com,Yahoo
+DOMAIN-SUFFIX,mail.yahoo.com,Yahoo
+DOMAIN-SUFFIX,yahoo.hk,Yahoo
+DOMAIN-SUFFIX,yahooapis.com,Yahoo
+DOMAIN-SUFFIX,yahoodns.net,Yahoo
+DOMAIN-SUFFIX,yahoofinance.com,Yahoo
+DOMAIN-SUFFIX,yahoohealth.com,Yahoo
+DOMAIN-SUFFIX,yahoomusic.com,Yahoo
+DOMAIN-SUFFIX,yahoosandbox.com,Yahoo
+DOMAIN-SUFFIX,yahoosportsbook.com,Yahoo
+DOMAIN-SUFFIX,yho.com,Yahoo
+DOMAIN-SUFFIX,yimg.com,Yahoo
+DOMAIN-SUFFIX,yimg.jp,Yahoo
+DOMAIN-SUFFIX,ymail.com,Yahoo
+DOMAIN-SUFFIX,yusercontent.com,Yahoo
 
 # NAME: Instagram
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 3
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
 # TOTAL: 4
-HOST-SUFFIX,cdninstagram.com,Instagram
-HOST-SUFFIX,instagr.am,Instagram
-HOST-SUFFIX,instagram.com,Instagram
-HOST-KEYWORD,instagram,Instagram
+DOMAIN-SUFFIX,cdninstagram.com,Instagram
+DOMAIN-SUFFIX,instagr.am,Instagram
+DOMAIN-SUFFIX,instagram.com,Instagram
+DOMAIN-KEYWORD,instagram,Instagram
 
 # NAME: Twitter
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 25
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 25
 # IP-CIDR: 6
 # TOTAL: 32
-HOST-SUFFIX,ads-twitter.com,Twitter
-HOST-SUFFIX,cms-twdigitalassets.com,Twitter
-HOST-SUFFIX,periscope.tv,Twitter
-HOST-SUFFIX,pscp.tv,Twitter
-HOST-SUFFIX,t.co,Twitter
-HOST-SUFFIX,tellapart.com,Twitter
-HOST-SUFFIX,tweetdeck.com,Twitter
-HOST-SUFFIX,twimg.co,Twitter
-HOST-SUFFIX,twimg.com,Twitter
-HOST-SUFFIX,twimg.org,Twitter
-HOST-SUFFIX,twitpic.com,Twitter
-HOST-SUFFIX,twitter.biz,Twitter
-HOST-SUFFIX,twitter.com,Twitter
-HOST-SUFFIX,twitter.jp,Twitter
-HOST-SUFFIX,twittercommunity.com,Twitter
-HOST-SUFFIX,twitterflightschool.com,Twitter
-HOST-SUFFIX,twitterinc.com,Twitter
-HOST-SUFFIX,twitteroauth.com,Twitter
-HOST-SUFFIX,twitterstat.us,Twitter
-HOST-SUFFIX,twtrdns.net,Twitter
-HOST-SUFFIX,twttr.com,Twitter
-HOST-SUFFIX,twttr.net,Twitter
-HOST-SUFFIX,twvid.com,Twitter
-HOST-SUFFIX,vine.co,Twitter
-HOST-SUFFIX,x.com,Twitter
+DOMAIN-SUFFIX,ads-twitter.com,Twitter
+DOMAIN-SUFFIX,cms-twdigitalassets.com,Twitter
+DOMAIN-SUFFIX,periscope.tv,Twitter
+DOMAIN-SUFFIX,pscp.tv,Twitter
+DOMAIN-SUFFIX,t.co,Twitter
+DOMAIN-SUFFIX,tellapart.com,Twitter
+DOMAIN-SUFFIX,tweetdeck.com,Twitter
+DOMAIN-SUFFIX,twimg.co,Twitter
+DOMAIN-SUFFIX,twimg.com,Twitter
+DOMAIN-SUFFIX,twimg.org,Twitter
+DOMAIN-SUFFIX,twitpic.com,Twitter
+DOMAIN-SUFFIX,twitter.biz,Twitter
+DOMAIN-SUFFIX,twitter.com,Twitter
+DOMAIN-SUFFIX,twitter.jp,Twitter
+DOMAIN-SUFFIX,twittercommunity.com,Twitter
+DOMAIN-SUFFIX,twitterflightschool.com,Twitter
+DOMAIN-SUFFIX,twitterinc.com,Twitter
+DOMAIN-SUFFIX,twitteroauth.com,Twitter
+DOMAIN-SUFFIX,twitterstat.us,Twitter
+DOMAIN-SUFFIX,twtrdns.net,Twitter
+DOMAIN-SUFFIX,twttr.com,Twitter
+DOMAIN-SUFFIX,twttr.net,Twitter
+DOMAIN-SUFFIX,twvid.com,Twitter
+DOMAIN-SUFFIX,vine.co,Twitter
+DOMAIN-SUFFIX,x.com,Twitter
 HOST-KEYWORD,twitter,Twitter
 IP-CIDR,192.133.76.0/22,Twitter
 IP-CIDR,199.59.148.0/22,Twitter
